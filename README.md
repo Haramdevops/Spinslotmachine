@@ -1,1 +1,1 @@
-# Spinslotmachine
+# SpinSlotMachine
